@@ -38,5 +38,3 @@ AtliQMart Ad-Hoc Insights is a **business analytics project** aimed at extractin
 
 ---
 
-🔗 **Connect with me**: [LinkedIn Profile](www.linkedin.com/in/dhanush-kumar-a49aaa208)  
-⭐ **If you found this project helpful, don't forget to star this repo!** 🚀  
