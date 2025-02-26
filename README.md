@@ -32,8 +32,8 @@ AtliQMart Ad-Hoc Insights is a **business analytics project** aimed at extractin
 ✔ **Invest in sales team training** to boost performance.  
 
 ## 📂 Project Files  
-- `SQL Queries.sql` - Contains all SQL queries used for data extraction.  
-- `PowerBI_Dashboard.pbix` - Power BI file with visualizations.  
+- `Ad-hoc Requests SQL.sql` - Contains all SQL queries used for data extraction.  
+- `adhoc.pbix` - Power BI file with visualizations.  
 - `ATLIQMART.pptx` - Presentation with insights and recommendations.  
 
 ---
