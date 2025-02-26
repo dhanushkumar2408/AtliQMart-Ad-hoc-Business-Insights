@@ -1,7 +1,7 @@
 # 📊 AtliQMart Ad-Hoc Insights
 
 ## 📌 Project Overview  
-AtliQMart Ad-Hoc Insights is a **business analytics project** aimed at extracting valuable insights for AtliQ Hardwares, a computer hardware company. The analysis was performed using **SQL** for querying data, **Power BI** for data visualization, and **Excel** for additional data handling. The findings helped in understanding sales performance, product growth, and customer trends.  
+AtliQMart Ad-Hoc Insights is a **business analytics project** aimed at extracting valuable insights for AtliQ Hardwares, a computer hardware company. The analysis was performed using **SQL** for querying data, **Power BI** for data visualization. The findings helped in understanding sales performance, product growth, and customer trends.  
 
 ## 🛠 Tools & Technologies Used  
 - **SQL** - Data extraction & analysis  
@@ -38,5 +38,5 @@ AtliQMart Ad-Hoc Insights is a **business analytics project** aimed at extractin
 
 ---
 
-🔗 **Connect with me**: [LinkedIn Profile](#) | [Portfolio](#)  
+🔗 **Connect with me**: [LinkedIn Profile](www.linkedin.com/in/dhanush-kumar-a49aaa208)  
 ⭐ **If you found this project helpful, don't forget to star this repo!** 🚀  
